@@ -1,2 +1,5 @@
 # rock-paper-scissors
-Project
+
+Project name: Rock Paper Scissors!
+
+
